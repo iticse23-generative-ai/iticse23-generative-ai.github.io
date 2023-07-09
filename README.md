@@ -1,3 +1,2 @@
-# aceconference.github.io
-This is the website for ACE - the Australasian Computing Education conference
-Website created by Paul Denny, the University of Auckland (and ACE co-chair, 2022, 2023)
+# iticse23-generative-ai.github.io
+This is the website for the 2023 ITiCSE Working Group on generative AI in computing education
